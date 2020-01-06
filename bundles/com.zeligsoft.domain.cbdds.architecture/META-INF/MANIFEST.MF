@@ -21,6 +21,7 @@ Require-Bundle: org.eclipse.core.runtime;bundle-version="3.15.300",
  org.eclipse.papyrus.uml.tools.utils;bundle-version="3.4.100",
  com.zeligsoft.base.zdl;bundle-version="3.5.1",
  com.zeligsoft.domain.dds4ccm;bundle-version="3.5.1",
+ com.zeligsoft.cx.ui;bundle-version="3.5.1",
  com.zeligsoft.domain.dds4ccm.api;bundle-version="3.5.1",
  com.zeligsoft.base.zdl.staticapi;bundle-version="3.5.1"
 Bundle-ActivationPolicy: lazy
